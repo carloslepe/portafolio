@@ -14,3 +14,8 @@ header {
   background-position: center;
   padding-bottom: 20rem;
 }
+
+.navbar-brand a {
+  font-size: "oswald-bold";
+  font-weight: 40px;
+}
