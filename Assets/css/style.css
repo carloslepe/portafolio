@@ -15,7 +15,7 @@ header {
   padding-bottom: 20rem;
 }
 
-.navbar-brand a {
+.navbar-brand {
   font-size: "oswald-bold";
   font-weight: 40px;
 }
